@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreenitasDemo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="preview">Preview</string>
+    <string name="hide">Hide</string>
+</resources>
